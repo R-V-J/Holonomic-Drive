@@ -1,0 +1,2 @@
+holonomic_drive
+-DCATKIN_DEVEL_PREFIX=/home/rushi/holonomic_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rushi/holonomic_ws/install -G Unix Makefiles
