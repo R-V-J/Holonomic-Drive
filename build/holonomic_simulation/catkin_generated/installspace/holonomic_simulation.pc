@@ -1,0 +1,8 @@
+prefix=/home/rushi/holonomic_ws/install
+
+Name: holonomic_simulation
+Description: Description of holonomic_simulation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -452,6 +452,12 @@ holonomic_drive_BINARY_DIR:STATIC=/home/rushi/holonomic_ws/build/holonomic_drive
 //Value Computed by CMake
 holonomic_drive_SOURCE_DIR:STATIC=/home/rushi/holonomic_ws/src/holonomic_drive
 
+//Value Computed by CMake
+holonomic_simulation_BINARY_DIR:STATIC=/home/rushi/holonomic_ws/build/holonomic_simulation
+
+//Value Computed by CMake
+holonomic_simulation_SOURCE_DIR:STATIC=/home/rushi/holonomic_ws/src/holonomic_simulation
+
 //Path to a library.
 lib:FILEPATH=/opt/ros/noetic/lib/libxmlrpcpp.so
 
@@ -633,7 +639,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=5
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=6
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
